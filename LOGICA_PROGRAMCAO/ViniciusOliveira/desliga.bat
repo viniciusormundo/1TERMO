@@ -1,0 +1,1 @@
+shutdows -s -t 3660 -c \desligamento
