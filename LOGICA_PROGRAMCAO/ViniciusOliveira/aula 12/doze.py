@@ -83,7 +83,7 @@ def calcular_media():
 #config da janela
 calculador_media = tk.Tk()
 calculador_media.title = ("Calculadora de Média")
-calculador_media.geometry("350x200")
+calculador_media.geometry("550x400")
 calculador_media.configure(bg="#1b1b1b")
 
 titulo = tk.Label(calculador_media, text="Calculadora de Média", font=("Arial", 14, "bold"), bg="#1b1b1b", fg="white")
